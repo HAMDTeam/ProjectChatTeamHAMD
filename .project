@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ProjectCHAT</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/ocsf</name>
+			<type>2</type>
+			<location>C:/Users/Mohamed/Desktop/Pro/SimpleChatProject/ocsf</location>
+		</link>
+		<link>
+			<name>src/simplechat1</name>
+			<type>2</type>
+			<location>C:/Users/Mohamed/Desktop/Pro/SimpleChatProject/simplechat1</location>
+		</link>
+	</linkedResources>
+</projectDescription>
